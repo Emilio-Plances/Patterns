@@ -1,2 +1,3 @@
-package org.example.dominio;public class Pagina {
-}
+package org.example.dominio;
+
+public class Pagina {}

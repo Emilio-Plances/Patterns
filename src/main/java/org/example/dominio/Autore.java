@@ -1,2 +1,3 @@
-package org.example.dominio;public class Autori {
-}
+package org.example.dominio;
+
+public class Autore {}
